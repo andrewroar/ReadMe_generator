@@ -1,11 +1,27 @@
 
-  ![npm bundle size](https://img.shields.io/badge/license-e-blue.svg)
-  # undefined 
+  ![npm bundle size](https://img.shields.io/badge/license-undefined-blue.svg)
+  # Markdown Generator 
   
-  ## description: 
-  undefined  
+  ## Description: 
+  Using a series of question to generate a markdown for your project 
+
   ## Installation: 
-  a 
+  Install not required 
+
+  ## Contribution:
+  Andrew 
+  
+  ## Test:
+   
+
   ## Usage: 
-  w 
+  To write a MD for any project 
+
+  ##Question:
+
+   
+
+  ![profile]()
+
+  https://github.com/andrewroar 
   
