@@ -1,21 +1,21 @@
 
   ![npm bundle size](https://img.shields.io/badge/license-undefined-blue.svg)
-  # Markdown Generator 
+  # Bomb 
   
   ## Description: 
-  Using a series of question to generate a markdown for your project 
+  it s a bomb 
 
   ## Installation: 
-  Install not required 
+  put it on the plane 
 
   ## Contribution:
-  Andrew 
+  Trump 
   
   ## Test:
-   
+  killed 10 people 
 
   ## Usage: 
-  To write a MD for any project 
+  To make America Great again 
 
   ##Question:
 
@@ -23,5 +23,5 @@
 
   ![profile]()
 
-  https://github.com/andrewroar 
+   
   

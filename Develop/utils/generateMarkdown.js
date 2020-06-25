@@ -18,7 +18,7 @@ function generateMarkdown(data) {
   ## Usage: 
   ${data.usage} 
 
-  ##Question:
+  ## Question:
 
   ${data.question} 
 

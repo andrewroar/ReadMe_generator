@@ -75,10 +75,11 @@ function writeToFile(fileName, data) {
   fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
 
+/////
+
 function init() {
   inquirer
     .prompt(questions)
-    .then(filterUnansweredQuestion)
     .then((inquirerResponses) =>
       writeToFile("README.md", generateMarkdown({ ...inquirerResponses }))
     );
